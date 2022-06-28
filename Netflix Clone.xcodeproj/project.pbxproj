@@ -98,8 +98,6 @@
 				FB64C92F285F0987006A0DD9 /* Views */,
 				FB64C92E285F097A006A0DD9 /* ViewModels */,
 				FB64C925285EFEB5006A0DD9 /* Controllers */,
-				FB64C911285EFC53006A0DD9 /* AppDelegate.swift */,
-				FB64C913285EFC53006A0DD9 /* SceneDelegate.swift */,
 				FB64C91A285EFC54006A0DD9 /* Assets.xcassets */,
 				FB64C91C285EFC54006A0DD9 /* LaunchScreen.storyboard */,
 				FB64C91F285EFC54006A0DD9 /* Info.plist */,
@@ -149,6 +147,8 @@
 		FB64C931285F09A9006A0DD9 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				FB64C913285EFC53006A0DD9 /* SceneDelegate.swift */,
+				FB64C911285EFC53006A0DD9 /* AppDelegate.swift */,
 				FB54433F286148CF005C5920 /* Extensions.swift */,
 			);
 			path = Resources;
